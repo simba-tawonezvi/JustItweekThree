@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\StaticMethod\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe.config
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\StaticMethod\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\StaticMethod\StaticMethod\StaticMethod\bin\Debug\StaticMethod.pdb
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\StaticMethod\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\StaticMethod\StaticMethod\StaticMethod\obj\Debug\StaticMethod.exe
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\StaticMethod\StaticMethod\StaticMethod\obj\Debug\StaticMethod.pdb

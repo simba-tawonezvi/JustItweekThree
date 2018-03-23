@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\WithInput\InputingCars\InputingCars\bin\Debug\InputingCars.exe.config
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\WithInput\InputingCars\InputingCars\bin\Debug\InputingCars.exe
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\WithInput\InputingCars\InputingCars\bin\Debug\InputingCars.pdb
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\WithInput\InputingCars\InputingCars\obj\Debug\InputingCars.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\WithInput\InputingCars\InputingCars\obj\Debug\InputingCars.exe
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\WithInput\InputingCars\InputingCars\obj\Debug\InputingCars.pdb

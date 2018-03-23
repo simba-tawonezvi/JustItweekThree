@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\Objects\Objects\bin\Debug\Objects.exe.config
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\Objects\Objects\bin\Debug\Objects.exe
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\Objects\Objects\bin\Debug\Objects.pdb
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\Objects\Objects\obj\Debug\Objects.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\Objects\Objects\obj\Debug\Objects.exe
+C:\Users\student\Desktop\Simba-Tawonezvi\cSharp\ObjectOrientation\Objects\Objects\obj\Debug\Objects.pdb
